@@ -60,5 +60,5 @@ int[] arr = new int[]{ 1,2,3,4,5,6,7,8,9,10 };
 https://www.geeksforgeeks.org/arrays-in-java/
 #### 2. Hashmap methods
 get : https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html#get-java.lang.Object-    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Returns the value to which the specified key is mapped, or **null if this map contains no mapping for the key**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Returns the value to which the specified key is mapped, or **null if this map contains no mapping for the key**.    
 containsKey: https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html#containsKey-java.lang.Object-
