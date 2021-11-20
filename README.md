@@ -1,9 +1,9 @@
 # study-repo
 
-## 1. study-algorithms
+## 1. algorithms
 This is a collection of memos about learning algorithms.
 
-## 2. study-gcp
+## 2. gcp-associate-certificate
 This is a collection of memos about learning Google Cloud Platform.
 
 ### Table of contents
