@@ -38,9 +38,9 @@ class Solution {
 
 ### Examination of the codes
 #### 1. Use a Map collection.
-Time complexity for hashmap is O(1) in average cases.
-English : https://javabypatel.blogspot.com/2015/10/time-complexity-of-hashmap-get-and-put-operation.html
-Korean : https://hee96-story.tistory.com/48#:~:text=%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%98%20%EC%84%B1%EB%8A%A5,%EA%B0%80%20O(1)%EC%9D%B4%EB%8B%A4.
+Time complexity for hashmap is O(1) in average cases.    
+[English Ref](https://javabypatel.blogspot.com/2015/10/time-complexity-of-hashmap-get-and-put-operation.html)     
+[Korean Ref](https://hee96-story.tistory.com/48#:~:text=%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%98%20%EC%84%B1%EB%8A%A5,%EA%B0%80%20O(1)%EC%9D%B4%EB%8B%A4.) 
 
 #### 2. No particular data storage just for returning a value
 In the best answer, an exception is used instead.
