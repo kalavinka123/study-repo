@@ -11,7 +11,7 @@
 5. sth is derivative / a derivative restatement of
 6. To scribble / To sribble sb sth
 7. a radiator
-   - <img src="https://user-images.githubusercontent.com/48580911/150682773-64d7358c-3446-4722-96fd-9265659eddc7.png" width="200" height="200">
+   <img src="https://user-images.githubusercontent.com/48580911/150682773-64d7358c-3446-4722-96fd-9265659eddc7.png" width="200" height="150">
 8. To cause perspiration
 9. in the winter/summer...
 10. To remain warm
