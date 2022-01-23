@@ -1,2 +1,0 @@
-## Map Collection
-TBU
