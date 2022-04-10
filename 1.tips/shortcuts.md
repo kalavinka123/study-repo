@@ -3,7 +3,7 @@
 - Alt + ( D + Enter ) : Duplicate a tab
 - Ctrl + t : Open a new tab
 - Ctrl + w : Close a tab
-- Alt + h : History
+- Ctrl + h : History
 
 #### Excel
 - F2 : Edit a cell
