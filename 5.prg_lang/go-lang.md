@@ -19,3 +19,17 @@ Type the following command from a terminal to run the code.
 $ go run hello.go
 Hello World from GO!
 ```
+
+- go run : compile & execute immediately
+- go build : just compile
+```
+# See the compiled file with the go build command
+$ ll
+total 1885
+-rwxr-xr-x 1 kala 197121 1926144 Jan 20 22:43 hello.exe*
+
+# Execute the compiled file.
+$ ./hello.exe 
+Hello World from GO!
+```
+- 
