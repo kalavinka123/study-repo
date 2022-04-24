@@ -62,6 +62,30 @@ kalavinka123@yyy         prsn-payg-001    yyyy                                  
 PS C:\Windows\System32>
 
 ```
-<img src="https://user-images.githubusercontent.com/48580911/164959411-0c8acbe5-d83e-4b9d-8d84-75eae7848df4.png" width=50% height=50%>    
-<Image 1.2 Authentication pop-up that says the auth is complete>
+<img src="https://user-images.githubusercontent.com/48580911/164959411-0c8acbe5-d83e-4b9d-8d84-75eae7848df4.png" width=50% height=50%> 
 
+Az object was sucessfully obtained.
+```
+PS C:\Windows\System32> Get-AzSubscription | Select-Object -Property Name, State
+
+Name          State
+----          -----
+prsn-payg-001 Enabled
+```
+
+#### Switch Az subscription
+Make the environment variable and then set the subscription.
+```
+$context = Get-AzSubcription -SubscriptionId {Subscription_ID}
+Set-AzContext $context
+```
+Check the current subscription you're using
+```
+PS C:\Windows\System32> Get-AzContext
+
+Name                                     Account             SubscriptionName    Environment         TenantId
+----                                     -------             ----------------    -----------         --------
+prsn-payg-001 (a018d58b-b00b-40ae-8476-… kalavinka123@outlo… prsn-payg-001       AzureCloud          3c71539b-ba18-4df…
+
+PS C:\Windows\System32>
+```
